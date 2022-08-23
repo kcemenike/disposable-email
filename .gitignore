@@ -1,0 +1,5 @@
+.env
+creds.json
+mailbox.json
+file.eml
+output.txt
